@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget{
       debugShowCheckedModeBanner: false,
       home: HomePage(),
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 18, 110, 214))
+        colorScheme: ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 184, 235, 255))
       )
     );
   }
